@@ -7,7 +7,7 @@ export function Profile() {
       <div>
         <strong>Glauber Gadelha</strong>
         <p>
-          <img src="icons/level.svg" alt="Level" height="5px" />
+          <img src="icons/level.svg" alt="Level"/>
           Level 1
         </p>
       </div>
