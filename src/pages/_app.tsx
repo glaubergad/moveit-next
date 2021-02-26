@@ -7,9 +7,7 @@ import {Head} from "next/document";
 function MyApp({Component, pageProps}) {
     return (
         <>
-            <ChallengesProvider>
                 <Component {...pageProps} />
-            </ChallengesProvider>
         </>
     )
 }
